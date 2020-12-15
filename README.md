@@ -32,9 +32,9 @@ ls
 
 cd ipfinder
 
-python ipfinder.py -v (your victim ip here)
+python Ipfinder.py -v (your victim ip here)
 
-*Example*: python ipfinder.py -v 127.0.0.1
+Example: python Ipfinder.py -v 127.0.0.1
 ```
 # Disclaimer
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
